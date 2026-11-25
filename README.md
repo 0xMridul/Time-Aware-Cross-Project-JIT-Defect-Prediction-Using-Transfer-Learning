@@ -1,5 +1,5 @@
 # Does Transfer Learning Really Help Cross-Project Just-In-Time Defect Prediction?
-#AISLOP(IGNORE THIS REPO)
+# AISLOP(IGNORE THIS REPO)
 
 ### A Time-Aware Re-Evaluation on ApacheJIT
 
